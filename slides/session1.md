@@ -13,7 +13,7 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 ##### Litteratursøgning og kildehåndtering - E2020
 ###### Roman Jurowetzki, roman@business.aau.dk
 
----
+---s
 
 <!-- #_color: white -->
 
