@@ -13,7 +13,7 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 ##### Litteratursøgning og kildehåndtering - E2020
 ###### Roman Jurowetzki, roman@business.aau.dk
 
----s
+---
 
 <!-- #_color: white -->
 
@@ -152,9 +152,9 @@ Vi skal lige se på netværk og netværkanalyse
 ## Netværk
 - Nodes
 - Edges / Links
-![w:600](http://www.martingrandjean.ch/wp-content/uploads/2013/06/GraphExample-690x371.png)
-Prøv at hente [Gephi](http://www.martingrandjean.ch/introduction-to-network-visualization-gephi/) hvis du synes det er spændende
-
+![bg right 90%](https://rjuro.github.io/litkil-master/img/GraphExample.png)
+Prøv at hente [Gephi](https://gephi.org/) hvis du synes det er spændende
+Tutorial: https://bit.ly/34uvx4p | Youtube: https://youtu.be/FLiv3xnEepw
 
 ---
 
@@ -166,7 +166,7 @@ Prøv at hente [Gephi](http://www.martingrandjean.ch/introduction-to-network-vis
 - lignende following
 - lignende #hashtags
 
-![bg right fit](https://www.techadvisor.co.uk/cmsdata/features/3659097/is-instagram-down-main_thumb800.jpg)
+![bg left fit](https://www.techadvisor.co.uk/cmsdata/features/3659097/is-instagram-down-main_thumb800.jpg)
 
 ---
 
@@ -183,4 +183,21 @@ Prøv at hente [Gephi](http://www.martingrandjean.ch/introduction-to-network-vis
 
 ## [Connectedpapers](https://www.connectedpapers.com)
 
-* 
+* Finder artikler
+* Beregner og visualiserer et netværk (bibliographic coupling)
+* Nem tool også mht workiing papers / ArXiv preprints
+
+## [VOSViewer](https://www.vosviewer.com/)
+
+* Software based
+* Virker med data fra Web of Science / Scopus / MAG
+
+
+---
+
+## Case
+
+* Du vil gerne skrive om disruptive innovation men mangler kilder / inspiration
+* What is disruptive innovation (Christensen, Raynor & McDonald, 2015)
+* Google Scholar
+* Connectedpapers
