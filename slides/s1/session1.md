@@ -154,6 +154,18 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 ---
 
+![bg 90%](https://rjuro.github.io/litkil-master/img/dk_1.jpg)
+
+---
+
+![bg 60%](https://rjuro.github.io/litkil-master/img/dk_2.jpg)
+
+---
+
+![bg 90%](https://rjuro.github.io/litkil-master/img/dk_3.png)
+
+---
+
 ## Hvordan man (ikke) ender som absolut amatør?
 
 * Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af Kunstig Intelligens og Innovation"
@@ -164,10 +176,15 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 ---
 
+![bg 90%](https://rjuro.github.io/litkil-master/img/mo.jpg)
+
+---
+
 # Men hvad med PBL?
 
 * PBL giver jer masser af frihed MEN det betyder ikke, at man skal bruge det til at blive frustreret fordi man kaster sig ud i noget, som man ikke kan løse...
-* Knowledge - ignorance Graph
+* Man spiller også en mulighed at lære noget (rigtigt)
+
 * Afgræns, afgræns, afgræns!!!
 * Brug litteratursøgning som tool til at afgrænse
 
