@@ -100,7 +100,7 @@ Flere referencer $\Rightarrow$ større impact (?)
 
 # Universitet ≠ Skole
 * Professor ≠ Lærer
-* I skal lære videnskabelig arbejde (projekter)
+* I skal lære videnskabeligt arbejde (projekter)
 * I skal placere jeres opgaver i en relevant videnskabelig kontekst / diskussion
 * Hvordan finder man en diskussion? (Det kommer lige om lidt)
 
@@ -108,7 +108,7 @@ Flere referencer $\Rightarrow$ større impact (?)
 
 
 
-# Opbygning af en artikel (eller bogkapitel)
+# Opbygning af en artikel
 * **Abstract** (kort sammenfatning af det hele)
 * **Intro**: Hvad er problemet og kontekst og hvad kan man forvente som læser?
 * **Teori**: Hvordan plejer folk (forsker) at forklare fænomenet og hvad er autorens bud.
@@ -144,9 +144,9 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 # Hvad er forsknings output?
 
-* De allerfleste outputs idag er empiriske artikler (ikke essays skrevet af en "teoretiker")
-* F.eks
-* Der er en formådning, at noget sker...et fænomen
+* De allerfleste outputs i dag er empiriske artikler (ikke essays skrevet af en "teoretiker")
+* F.eks.
+* Der er en formodning, at noget sker...et fænomen
 * Er der nogen, der har set på det eller lignende ting?
 * **Teori**: Kan det formuleres som påstand (hypotese)
 * **Analyse**: Kan vi 'måle' det? Kan vi afkræfte hypotesen?
@@ -169,23 +169,23 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 ## Hvordan man (ikke) ender som absolut amatør?
 
 * Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af Kunstig Intelligens og Innovation"
-* Julie er lige startet på Ingeniørsstudie. Julie og gruppen vil skrive et projekt om energiopbevaring med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiobevaring"
+* Julie er lige startet på Ingeniørstudie. Julie og gruppen vil skrive et projekt om energiopbevaring med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiopbevaring"
 * Er det realistisk, at der kommer noget brugbart ud af disse projekter?
 * Don't be Thomas & Julie
  
 
 ---
 
-![bg 90%](https://rjuro.github.io/litkil-master/img/mo.jpg)
+![bg 70%](https://raw.githubusercontent.com/RJuro/litkil-master/main/img/mo.jpg)
 
 ---
 
 # Men hvad med PBL?
 
-* PBL giver jer masser af frihed MEN det betyder ikke, at man skal bruge det til at blive frustreret fordi man kaster sig ud i noget, som man ikke kan løse...
+* PBL giver jer **masser af frihed** MEN det betyder ikke, at man skal bruge det til at blive frustreret fordi man kaster sig ud i noget, som man ikke kan løse...
 * Man spiller også en mulighed at lære noget (rigtigt)
-
-* Afgræns, afgræns, afgræns!!!
+* Brug din vejleder rigtigt!
+* Afgræns, afgræns, afgræns!
 * Brug litteratursøgning som tool til at afgrænse
 
 ---
@@ -239,7 +239,6 @@ Tutorial: https://bit.ly/34uvx4p | Youtube: https://youtu.be/FLiv3xnEepw
 * deler mange referencer (bibliometric coupling)
 * bliver refereret til af andre samtidigt (co-citation)
 * har lignende nøgleord
-![bg left fit](https://science.sciencemag.org/content/110/2862/461.pdf-extract.jpeg)
 
 ---
 
