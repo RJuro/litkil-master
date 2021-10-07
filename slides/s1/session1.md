@@ -15,10 +15,10 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 
 ---
 
-# Universitæt og "kultur"
+# Universitet og "kultur"
 
 * som alle organisationer og miljøer er der en særlig kultur
-* Hvordan hedder ting? Hvad er vigtigt? Hvad skal man lade være med for ikke at virke som 100% amatør?
+* Hvordan hedder ting? Hvad er vigtigt? Hvad skal man lade være med for ikke at virke som amatør?
 * Ikke for at forme jer til at blive mere prætentiøse men for at I ikke begår de fejl, som man typisk møder.
 
 ---
@@ -73,8 +73,8 @@ Forskning:
 # Kursus opbygning
 * Denne forelæsning: Forskning, kildetyper, søgning
 * Næsteforelæsning: Mere søgning og Litteraturliste
-* Uge42: Kildehåndtering (AUB) ?
-* Peergrading 15/16-10 ?
+* Uge42: Kildehåndtering (AUB)
+* Uge 42: Peergrading
 
 ---
 
@@ -154,17 +154,17 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 ---
 
-# Hvordan man (ikke) ender som absolut amatør?
+## Hvordan man (ikke) ender som absolut amatør?
 
 * Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af Kunstig Intelligens og Innovation"
-* Julie er lige startet på Ingeniørsstudie. Julie og gruppen vil skrive et projekt om energiopbevaring med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiiobevaring"
+* Julie er lige startet på Ingeniørsstudie. Julie og gruppen vil skrive et projekt om energiopbevaring med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiobevaring"
 * Er det realistisk, at der kommer noget brugbart ud af disse projekter?
 * Don't be Thomas & Julie
  
 
 ---
 
-# Men hvad med PBL
+# Men hvad med PBL?
 
 * PBL giver jer masser af frihed MEN det betyder ikke, at man skal bruge det til at blive frustreret fordi man kaster sig ud i noget, som man ikke kan løse...
 * Knowledge - ignorance Graph
