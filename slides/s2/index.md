@@ -10,7 +10,7 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 <!-- paginate: false -->
 
 # Session2: Mere Søgning og Kildehåndtering
-##### Litteratursøgning og kildehåndtering - E2020
+##### Litteratursøgning og kildehåndtering - E2021
 ###### Roman Jurowetzki, roman@business.aau.dk
 
 ---
@@ -33,11 +33,11 @@ Det er vigtigt, at du kender regler omkring håndtering af kilder. Nogle af de v
 
 https://www.aub.aau.dk/software-web/refworks/
 
-- Der er mange andre (bedre) løsninger (fx Mendeley) men RefWorks er OK. 
+- Der er mange andre (også bedre) løsninger (fx Mendeley) men RefWorks er OK. At bruge Word direkte er også fint.
 - I kan få mere support igennem AUB - afprøv RefWorks nu, så du kan spørge AUB i næste uge!
 
 Integreres med Word og Google Docs
-- Vil man lære noget mere profesionelt, så er det nok LaTeX (fx igennem [Overleaf - med AAU licens](https://www.overleaf.com/latex/templates/aalborg-university-aau-report-template/ckfhtmfkpjvv)): 
+- Vil man lære noget "mere professionelt", så er det nok LaTeX (fx igennem [Overleaf - med AAU licens](https://www.overleaf.com/latex/templates/aalborg-university-aau-report-template/ckfhtmfkpjvv)): 
 
 ---
 
@@ -71,13 +71,6 @@ Du skriver et projekt, der undersøger hvordan danske IT/Data-virksomheder bruge
 Du finder Laursen & Salter (2014) og synes, at artiklen kunne være et godt udgangspunkt.
 
 Laursen, K., & Salter, A. J. (2014). The paradox of openness: Appropriability, external search and collaboration. Research Policy, 43(5), 867-878. 
-
----
-# Vi løser det her sammen
-
-I får 10 min per opgave - og så går vi igennem sammen.
-
-https://padlet.com/arjay86/h97p17ug6c58wp7u
 
 
 
