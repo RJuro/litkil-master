@@ -14,11 +14,12 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 ###### Roman Jurowetzki, roman@business.aau.dk
 
 ---
+
 # Hvem er jeg?
 
 * [VBN](https://vbn.aau.dk/en/persons/125497)
 * [Google Scholar](https://scholar.google.com/citations?user=9Zwa75gAAAAJ&hl=en&oi=ao)
-
+* [AI Denmark](https://aidenmark.dk)
 
 ---
 
@@ -91,8 +92,8 @@ Forskning:
 # Kursus opbygning
 * Denne forelæsning: Forskning, kildetyper, søgning
 * Næste forelæsning (Online): Mere søgning og Litteraturliste
-* Uge42: Kildehåndtering (AUB)
-* Uge 42: Peergrading
+* Kildehåndtering (AUB)
+* 28/10: Peergrading
 
 ---
 
@@ -196,7 +197,7 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 * Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af LEAN og Innovation"
 * Julie er lige startet på Ingeniørstudie. Julie og gruppen vil hjælpe med at løse energikrisen og skrive et projekt om energioptimering med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiopbevaring"
 * Er det realistisk, at der kommer noget brugbart ud af disse projekter?
-* Don't be Thomas & Julie
+
  
 
 ---
@@ -260,7 +261,7 @@ Tutorial: https://bit.ly/34uvx4p | Youtube: https://youtu.be/FLiv3xnEepw
 * lignende following
 * lignende #hashtags
 
-![bg left fit](https://www.techadvisor.co.uk/cmsdata/features/3659097/is-instagram-down-main_thumb800.jpg)
+![bg left fit](https://miro.medium.com/max/1400/1*6_NlX6CJYhtxzRM-t6ywkQ.png)
 
 ---
 
