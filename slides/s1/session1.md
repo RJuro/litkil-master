@@ -10,16 +10,34 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 <!-- paginate: false -->
 
 # Session1: Forskning, kommunikation, kilder og hvordan man finder dem?
-##### Litteratursøgning og kildehåndtering - E2021
+##### Litteratursøgning og kildehåndtering - E2022
 ###### Roman Jurowetzki, roman@business.aau.dk
+
+---
+# Hvem er jeg?
+
+* [VBN](https://vbn.aau.dk/en/persons/125497)
+* [Google Scholar](https://scholar.google.com/citations?user=9Zwa75gAAAAJ&hl=en&oi=ao)
+
 
 ---
 
 # Universitet og "kultur"
 
-* som alle organisationer og miljøer er der en særlig kultur
+* Som alle organisationer og miljøer er der en særlig kultur
 * Hvordan hedder ting? Hvad er vigtigt? Hvad skal man lade være med for ikke at virke som amatør?
-* Ikke for at forme jer til at blive mere prætentiøse men for at I ikke begår de fejl, som man typisk møder.
+* Ikke for at gøre jer mere prætentiøse (akademiske?) men for at I ikke begår de fejl, som man typisk møder.
+* Hvem er I? Hvem er vi? Hvad skal vi her?
+
+---
+
+# KPI på AAUBS
+
+* Forskning & Undervisning
+* Partnerskaber
+* Funding
+* Formidling
+* Impact
 
 ---
 
@@ -72,18 +90,27 @@ Forskning:
 
 # Kursus opbygning
 * Denne forelæsning: Forskning, kildetyper, søgning
-* Næsteforelæsning: Mere søgning og Litteraturliste
+* Næste forelæsning (Online): Mere søgning og Litteraturliste
 * Uge42: Kildehåndtering (AUB)
 * Uge 42: Peergrading
 
 ---
 
 ## Om bøger og artikler
-* Forsker som mig (Eunkyung, Allan, Pernille og andre) evalueres igennem publikationer
-* DK's (Bibliometriske Forskningsindikator) BFI system: https://ufm.dk/forskning-og-innovation/statistik-og-analyser/den-bibliometriske-forskningsindikator/BFI-lister
+* Forsker som jeg og dem I møder her evalueres igennem publikationer
+* Referencer er vores "super-likes"
 * Bøger - monografier - (desværre) forældet og "low impact" (medmindre man er allerede berømt)
-* Artikler i gode tidskrifter $\Rightarrow$ opmærksomhed (læsere + referencer) $\Rightarrow$ karriere som forsker
+* Artikler i gode tidskrifter $\Rightarrow$ opmærksomhed (læsere + referencer) $\Rightarrow$ karriere som forsker (hvis man er til det)
 * Peer review som kvalitetsgaranti
+
+---
+
+## Peer-review er slet ikke cute
+
+By reading the revised version of the paper "xxxx", I have highly appreciated the decision of the authors to **totally revise** the old framework that was, frankly speaking, **extremely weak**. 
+Nevertheless, even the new framework **appears to be weak** and provides a **limited contribution** to the literature...
+
+...reading two different analyses of the same data and checking the quotes collected by the authors in this new version, is that this paper, even in a **radically different** version, cannot provide a significant contribution to be accepted in a prestigious journal like Industry and Innovation. 
 
 ---
 
@@ -105,8 +132,6 @@ Flere referencer $\Rightarrow$ større impact (?)
 * Hvordan finder man en diskussion? (Det kommer lige om lidt)
 
 ---
-
-
 
 # Opbygning af en artikel
 * **Abstract** (kort sammenfatning af det hele)
@@ -144,7 +169,7 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 # Hvad er forsknings output?
 
-* De allerfleste outputs i dag er empiriske artikler (ikke essays skrevet af en "teoretiker")
+* De allerfleste outputs i dag er empiriske artikler (ikke essays skrevet af en **"teoretiker"**)
 * F.eks.
 * Der er en formodning, at noget sker...et fænomen
 * Er der nogen, der har set på det eller lignende ting?
@@ -168,8 +193,8 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 ## Hvordan man (ikke) ender som absolut amatør?
 
-* Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af Kunstig Intelligens og Innovation"
-* Julie er lige startet på Ingeniørstudie. Julie og gruppen vil skrive et projekt om energiopbevaring med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiopbevaring"
+* Thomas er lige startet på HA. Thomas og hans gruppe vil skrive en opgave om Tesla. Projektet hedder (pt) "Tesla's udnyttelse af LEAN og Innovation"
+* Julie er lige startet på Ingeniørstudie. Julie og gruppen vil hjælpe med at løse energikrisen og skrive et projekt om energioptimering med titlen "Hvordan Kunstig Intelligens bruges til at innovere energiopbevaring"
 * Er det realistisk, at der kommer noget brugbart ud af disse projekter?
 * Don't be Thomas & Julie
  
@@ -184,18 +209,25 @@ Hvad for en kilde har vi brug for og hvordan bruger vi den?
 
 * PBL giver jer **masser af frihed** MEN det betyder ikke, at man skal bruge det til at blive frustreret fordi man kaster sig ud i noget, som man ikke kan løse...
 * Man spiller også en mulighed at lære noget (rigtigt)
-* Brug din vejleder rigtigt!
+* Brug din vejleder rigtigt! (Hvad forskr de I? Hvad brænder de for?)
 * Afgræns, afgræns, afgræns!
-* Brug litteratursøgning som tool til at afgrænse
+* Brug litteratursøgning som **tool til at afgrænse**
 
 ---
 
 # Hvor starter man?
 * Gammeldags søgeord-søgning?
 * Google / Google Scholar ?
-* almindeligheds-fælden. Vores resultater er ikke specifikke fordi vores søgebegreber er meget uspecifikke.
+* Almindeligheds-fælden. Vores resultater er ikke specifikke fordi vores søgebegreber er meget uspecifikke.
 * Man håber at finde noget på dansk?
 * Bedre søgebegreber
+
+---
+
+# Så, du siger vi skal ikke være ambitiøse?
+
+* Nej, det siger jeg ikke.
+* 
 
 ---
 
