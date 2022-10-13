@@ -10,7 +10,7 @@ backgroundImage: url('https://source.unsplash.com/_JpQfgcCa2o')
 <!-- paginate: false -->
 
 # Session2: Mere Søgning og Kildehåndtering
-##### Litteratursøgning og kildehåndtering - E2021
+##### Litteratursøgning og kildehåndtering - E2022
 ###### Roman Jurowetzki, roman@business.aau.dk
 
 ---
